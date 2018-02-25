@@ -16,6 +16,16 @@ const mongoose = require('mongoose'),
 			customCardbackUid: String,
 			enableTimestamps: Boolean,
 			enableRightSidebarInGame: Boolean,
+			<html>
+<head>
+</head>
+<body>
+<audio controls width="100px" height="50px">
+<audio autoplay>
+<audio loop>
+<source src="David_Hilowitz_-_Ephemera.mp3">
+Secret Hitler Music, if it does not play for you, please go to the Secret Hitler Github and file an issue, and a contributer will help you.
+</audio>
 			disablePlayerColorsInChat: Boolean,
 			disablePlayerCardbacks: Boolean,
 			disableHelpMessages: Boolean,
